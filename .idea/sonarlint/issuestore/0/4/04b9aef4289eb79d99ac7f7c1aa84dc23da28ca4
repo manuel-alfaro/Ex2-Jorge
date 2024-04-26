@@ -1,0 +1,60 @@
+
+›
+java:S2259j"SA "NullPointerException" could be thrown; "getAsistenteByCodigo()" can return null.(³Æ€¹ûÿÿÿÿ8Ç÷ÔÖñ1J$f4f119d9-366a-4e13-9f19-4aed6054fb2a
+
+java:S2095Á"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(‘Âë•8ÊÙ“×ñ1J$d97b3ce4-4eba-41bc-adb4-bd8f87414d03
+‘
+java:S2095“"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ùÁ¯÷şÿÿÿÿ8Ç÷ÔÖñ1J$8021b121-5551-4e10-8209-bcfcb7f4701d
+‘
+java:S2095”"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(„ôù¬øÿÿÿÿ8Ç÷ÔÖñ1J$0a4d7d01-354c-426d-942b-6eb12aa1cc70
+
+java:S2095¶"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(—ŠµÄ8ËÙ“×ñ1J$56772274-18e3-4d3e-ab24-82ff4fe80619
+m	java:S106#"+Replace this use of System.out by a logger.(åø¹ö8Ê÷ÔÖñ1J$62311c54-2551-4af6-be07-ab357f2c4bab
+”
+java:S6201*"LReplace this instanceof check and cast with 'instanceof Asistente asistente'(ˆ«ñ¸ùÿÿÿÿ8Ë÷ÔÖñ1J$70fad885-1742-4df8-bf51-a7dbc6cdd020
+m	java:S1061"+Replace this use of System.out by a logger.(ĞÏ‹Ş8Ì÷ÔÖñ1J$4e304faa-8c52-498b-b46f-d3cc48817a12
+
+java:S62017"HReplace this instanceof check and cast with 'instanceof Artista artista'(âÎ‹şÿÿÿÿ8Ì÷ÔÖñ1J$4900b102-efdc-4921-a24b-244db463e48d
+m	java:S106>"+Replace this use of System.out by a logger.(ĞÏ‹Ş8Ì÷ÔÖñ1J$d061a844-5e1c-4732-8d7f-b137466b1812
+r	java:S106D"+Replace this use of System.out by a logger.(ÀëËüÿÿÿÿ8Ì÷ÔÖñ1J$c512c9b6-62f9-4a57-8acb-818708c7b79c
+r	java:S106O"+Replace this use of System.out by a logger.(ù¸Ç°ûÿÿÿÿ8Í÷ÔÖñ1J$fdc08591-33db-4193-a81c-d510a3ac4fb4
+r	java:S106V"+Replace this use of System.out by a logger.(øğÍùÿÿÿÿ8Í÷ÔÖñ1J$1fcb8375-92b0-4609-bec3-75c7d804cf7b
+m
+java:S3457]"%String contains no format specifiers.(¹—¿‰şÿÿÿÿ8Í÷ÔÖñ1J$c030b227-5568-424e-b043-471bcdedc989
+r	java:S106]"+Replace this use of System.out by a logger.(¹—¿‰şÿÿÿÿ8Í÷ÔÖñ1J$ebe453cd-b0ed-4b83-9e01-537fee04b1e1
+r	java:S106j"+Replace this use of System.out by a logger.(³Æ€¹ûÿÿÿÿ8Î÷ÔÖñ1J$db0fd812-c6a1-402e-8e11-c1a955769016
+“
+java:S3457t"Q%n should be used in place of \n to produce the platform-specific line separator.(ş¾Æz8ğø—×ñ1J$dc91d93f-ffaa-499f-9f28-c596dc02bfb0
+g
+java:S3457t"%String contains no format specifiers.(ş¾Æz8ğø—×ñ1J$84939e83-aee6-495c-b3e3-aeef8831a7f8
+l	java:S106t"+Replace this use of System.out by a logger.(ş¾Æz8Î÷ÔÖñ1J$66b6c70f-b787-4777-9e09-83982434d164
+™
+java:S3457|"Q%n should be used in place of \n to produce the platform-specific line separator.(ªí²ßıÿÿÿÿ8ğø—×ñ1J$1e5d673d-c8de-4f05-b6ac-297a6fa4b3a8
+m
+java:S3457|"%String contains no format specifiers.(ªí²ßıÿÿÿÿ8ğø—×ñ1J$be43c977-149f-45a9-8ff1-c449db6fe7b6
+r	java:S106|"+Replace this use of System.out by a logger.(ªí²ßıÿÿÿÿ8Ï÷ÔÖñ1J$464bfec7-34d1-4c68-b582-aac57a93ec6c
+•
+java:S3457†"Q%n should be used in place of \n to produce the platform-specific line separator.(”Şä8ñø—×ñ1J$0e9630b2-a634-40a7-8696-040a01dd2ddc
+i
+java:S3457†"%String contains no format specifiers.(”Şä8ñø—×ñ1J$091715fb-9e0b-421e-a4b2-a7caba59a07a
+n	java:S106†"+Replace this use of System.out by a logger.(”Şä8Ï÷ÔÖñ1J$62179d27-fcf4-4876-8fa4-5a7b5a97eb8a
+n	java:S106Š"+Replace this use of System.out by a logger.(Ë¡â®8Ï÷ÔÖñ1J$818d882e-589b-477b-94ed-2cbf76bb9a45
+•
+java:S6201"LReplace this instanceof check and cast with 'instanceof Asistente asistente'(ˆ«ñ¸ùÿÿÿÿ8Ğ÷ÔÖñ1J$66888cb8-6166-4c41-b1ba-e9aee85317c6
+•
+java:S6201"LReplace this instanceof check and cast with 'instanceof Asistente asistente'(ˆ«ñ¸ùÿÿÿÿ8Ğ÷ÔÖñ1J$04bbb830-a30d-428c-a457-05780c917c9e
+n	java:S106¨"+Replace this use of System.out by a logger.(ºŸ‹ù8Ğ÷ÔÖñ1J$2766baa8-2868-4138-8520-07b0246f6e16
+s	java:S106ª"+Replace this use of System.out by a logger.(Ô†„Ñşÿÿÿÿ8Ğ÷ÔÖñ1J$b250989a-c00d-4f95-a5ad-602b333b499a
+s	java:S106Ï"+Replace this use of System.out by a logger.(ÁÖ¦¦ıÿÿÿÿ8Ò÷ÔÖñ1J$ea8109ed-b668-4270-a357-f44700b08e9e
+n
+java:S3457Ñ"%String contains no format specifiers.(¹—¿‰şÿÿÿÿ8ßÍçÖñ1J$4c259fe5-6f5d-495e-9b40-43970fb15637
+s	java:S106Ñ"+Replace this use of System.out by a logger.(¹—¿‰şÿÿÿÿ8Ô÷ÔÖñ1J$3060786d-566d-484c-ae91-16921a403a49
+s	java:S106Ô"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Ô÷ÔÖñ1J$fd85cc96-e700-4a2f-85d8-710951371525
+n
+java:S3457Ö"%String contains no format specifiers.(¹—¿‰şÿÿÿÿ8ßÍçÖñ1J$82ab3218-6272-4f1e-be0d-f93c4dfca332
+s	java:S106Ö"+Replace this use of System.out by a logger.(¹—¿‰şÿÿÿÿ8Ñ–æÖñ1J$b802fe6f-dd6b-401b-989f-e92ccdf3edd8
+s	java:S106Û"+Replace this use of System.out by a logger.(éŒ÷øÿÿÿÿ8Ñ–æÖñ1J$cdbd4486-9580-4ded-b48a-64217fac4274
+t
+java:S1168ü"+Return an empty collection instead of null.(åÛÎØûÿÿÿÿ8Ó÷ÔÖñ1J$19505573-4bc4-4b72-a849-18af3381707b
+n	java:S106…"+Replace this use of System.out by a logger.(©Êà8âÍçÖñ1J$0d6b6248-110f-4b9e-a18e-bf26e6be08de
+s	java:S106‡"+Replace this use of System.out by a logger.(š¿¨»şÿÿÿÿ8âÍçÖñ1J$86e12a1e-cd0c-4056-8282-ff1178ee9ef8
